@@ -1,0 +1,12 @@
+node_modules/
+dist/
+dist-electron/
+.env
+.env.local
+.venv
+venv/
+engine/venv/
+__pycache__/
+*.pyc
+engine/model/
+.DS_Store
